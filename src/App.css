@@ -426,6 +426,12 @@ nav {
     max-width: 95vw;
   }
 }
+
+.logoFooter{
+  width: 200px;
+  color: #e48f0f;
+}
+
 @media (max-width: 600px) {
   .logoH1{
     width: 300px;
